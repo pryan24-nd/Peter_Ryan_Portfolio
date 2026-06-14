@@ -12,7 +12,7 @@ Computer Science & Business Analytics student at the University of Notre Dame.
 - **Tech (AI Layer):** Amazon Bedrock (LLM: Nova 2 Lite; Embedding: Amazon Titan Text Embeddings V2), LangChain
 - **Tech (AWS Tools):** AWS Lambda (Python), API Gateway, RDS (PostgreSQL + pgvector), Amazon Bedrock (Nova 2 Lite, Amazon Titan Embeddings v2)
 - **Description:** A web app designed to let people know if certain medication can be found or is allowed to be brought into select countries as well as recommended or required vaccinations to have when traveling to those places along with resources to help accomodate anything missing or any questions the user may have
-- **Repo:** [`Amazon Health International Travel Meciation and Vaccination Eligibility Website1](https://github.com/Francisco-MEB/sibc_amazon_sp26)
+- **Repo:** [`Amazon Health International Travel Meciation and Vaccination Eligibility Website`](https://github.com/Francisco-MEB/sibc_amazon_sp26)
 
 - **Problem:** A lot of this information is scattered and it is hard to find valid and reliable information easily when looking into medication for a trip
 - **Solution:** Centralize this information along with the custoomizability and resources of Amazon Pharmacy or the Amazon Health Chatbot and many other services to bring about a more user friendly solution that is simple to use and understand
